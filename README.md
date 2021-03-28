@@ -1,23 +1,25 @@
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient" alt="header" />
 </p>
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEJISANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  <img src="https://img.shields.io/github/followers/LEEJISANG?style=social" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEJISANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits" />
+  <a href="https://github.com/LEEJISANG?tab=following">
+    <img src="https://img.shields.io/github/followers/LEEJISANG?style=social" alt="followers" />
+  </a>
 </p>
 <br /><br />
 <p align="center">
   <h2 align="center">:computer:Github Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LEEJISANG" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LEEJISANG" alt="stats" />
   </p>
 </p>
 <br /><br />
 <p align="center">
   <h2 align="center">:computer:Most Used Languages</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJISANG&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJISANG&layout=compact" alt="mul" />
   </p>
 </p>
 <br /><br />
