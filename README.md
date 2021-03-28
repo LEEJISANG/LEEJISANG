@@ -35,3 +35,21 @@
     <img src="https://img.shields.io/badge/-MySQL-orange?logo=MySQL&logoColor=white&style=for-the-badge"/>
   </p>
 </p>
+<br /><br />
+<p align="center">
+  <h2 align="center">:computer:Contact</h2>
+  <p align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100003615366172">
+      <img src="https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.instagram.com/jisang314/">
+      <img src="https://img.shields.io/badge/-Instagram-ff33ff?logo=Instagram&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://blog.naver.com/leejisang314">
+      <img src="https://img.shields.io/badge/-blog-ff9900?logo=Blogger&logoColor=white&style=for-the-badge"/>
+    </a>
+  </p>
+</p>
