@@ -41,7 +41,7 @@
 <p align="center">
   <h2 align="center">:computer:Contact</h2>
   <p align="center">
-    <a href="#">
+    <a href="https://www.notion.so/LOOKAT-ec5e3ec9d2624501b9f395990f13fa38">
       <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100003615366172">
