@@ -6,4 +6,4 @@
 <img src="https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Bootstrap 4-purple?logo=Bootstrap&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Oracle-FF3232?logo=Oracle&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-MySQL-13C7A3?logo=MySQL&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MySQL-orange?logo=MySQL&logoColor=white&style=for-the-badge"/>
