@@ -1,4 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient)
+<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient) -->
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jisang&nbsp;Lee&fontAlign=80&fontAlignY=40&color=gradient" />
+</p>
 <p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEJISANG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   <img src="https://img.shields.io/github/followers/LEEJISANG?style=social" />
