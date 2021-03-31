@@ -44,9 +44,6 @@
     <a href="https://www.notion.so/9c20e83e128d412482025fafeb3555c3">
       <img src="https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100003615366172">
-      <img src="https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge"/>
-    </a>
     <a href="https://www.instagram.com/jisang314/">
       <img src="https://img.shields.io/badge/-Instagram-ff33ff?logo=Instagram&logoColor=white&style=for-the-badge"/>
     </a>
